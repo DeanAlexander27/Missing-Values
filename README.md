@@ -15,3 +15,5 @@ Before we start, we need to know about typical of Missing Values, so here it is.
 - Delete row. If the total number of NA data as a whole is <5%. Be careful when deleting rows because the more rows you remove, the more observations you lose which could provide important information to the data
 - Delete column. If the total value of NA in a column is usually missing a lot (generally > 50%)
 - Carry out imputation by filling in NA values with a certain value (you can use a business approach or a statistical approach).
+
+# In this case I'm going to trial the imputation using MICE
