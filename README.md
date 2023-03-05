@@ -5,7 +5,7 @@ how to measure error of accuracy ?
 
 # Here's the way
 Before we start, we need to know about typical of Missing Values, so here it is.
-Types of Missing Values:
+## Types of Missing Values:
 - MNAR : Missing not at random is a type of NA where the cause of NA depends on the variable that has the NA value itself
 - MAR : Missing at random is a type of NA in which the NA value does not depend on the variable that has the NA value, but depends on other variables in the data.
 - MCAR : Missing Values which do not depend on any variable. Generally the cause of NA in this type is human error, technical error in the device or when inputting data, etc
